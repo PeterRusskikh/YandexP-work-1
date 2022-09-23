@@ -29,11 +29,12 @@ a {
   text-decoration: none;
   cursor: pointer;
 }
-.footer {
-  display: flex;
-}
+
 .text {
   margin: 280px auto 30px;
+}
+.footer {
+  display: flex;
 }
 .text a {
   color: #2F80ED;
