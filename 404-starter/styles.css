@@ -20,7 +20,7 @@ a {
 .block-number {
   margin: auto;
   width: 420px;
-  height: 140px;
+  
   font-size: 120px;
   text-align: center;
   /* border: 1px solid; */
@@ -42,7 +42,7 @@ a {
 .text-error {
   margin: auto;
   width: 420px;
-  height: 110px;
+
   margin-top: 22px;
   text-align: center;
   display: none;
